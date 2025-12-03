@@ -1,7 +1,7 @@
 
 # Caleb Martinez's Portfolio 
 
-I am a computer science cybersecurity major at CSUF and I and planning on graduating in 2029
+I am a computer science cybersecurity major at CSUF and I am planning on graduating in 2029
 
 ## Favorite Labs from 120L 
 
